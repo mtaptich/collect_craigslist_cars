@@ -13,7 +13,7 @@ def CSVtoDB(path):
 def quick_update(make, model):
 	df = levalized_cost(make, model)
 	df.to_csv('output/'+make+'_'+model+'_'+time.strftime("%d_%m_%Y")+'.csv', sep=',', index=False, encoding='utf-8')
-	ec.send('output/'+make+'_'+model+'_'+time.strftime("%d_%m_%Y")+'.csv',make, model, emailto="meholleran@gmail.com")
+	ec.send('output/'+make+'_'+model+'_'+time.strftime("%d_%m_%Y")+'.csv',make, model, emailto="mtaptich@gmail.com")
 
 def pull_mpg(make, model, year):
 	a = specs[(specs['make'] == make) & (specs['year'] == year) & (specs['model'].str.contains(model))]
@@ -42,14 +42,14 @@ def monthly_cost(price, interest, initial_investment, payment_years):
 	except:
 		return ""
 
-def levalized_cost(make, model, annual_mileage=5000, max_odometer=180000, fuel_cost=3.5, interest=0.04, initial_investment= 4500, payment_years=5):
+def levalized_cost(make, model, location="sfbay", annual_mileage=5000, max_odometer=180000, fuel_cost=3.5, interest=0.04, initial_investment= 4500, payment_years=5):
 	"""
 	A tool to screen Craigslist for cars and returns levalized cost of ownership. 
 	
 	"""
 
 	# Screen Craigslist for 
-	df = cc.query("sfbay", 1000, make, model)
+	df = cc.query(location, 1000, make, model)
 
 	# Pull the combined MPG for the cars of interest
 	df["mpg"] = df["YEAR"].map(lambda x: pull_mpg(make, model, int(x)))
