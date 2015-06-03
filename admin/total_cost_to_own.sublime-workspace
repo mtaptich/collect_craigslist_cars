@@ -1,0 +1,874 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tran",
+				"transform"
+			],
+			[
+				"t",
+				"tractor"
+			],
+			[
+				"get",
+				"getUnique"
+			],
+			[
+				"Da",
+				"DataFrame"
+			],
+			[
+				"wei",
+				"weight_size"
+			],
+			[
+				"veh",
+				"veh_list"
+			],
+			[
+				"pa",
+				"payload"
+			],
+			[
+				"ef",
+				"ef_list"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"com",
+				"commodity"
+			],
+			[
+				"gr",
+				"graph"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"co",
+				"commodity"
+			],
+			[
+				"data",
+				"dataNest"
+			],
+			[
+				"dat",
+				"dataNest"
+			],
+			[
+				"sced",
+				"schedule"
+			],
+			[
+				"col",
+				"columns"
+			],
+			[
+				"dri",
+				"drivescheduleid"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"dr",
+				"drivescheduleid"
+			],
+			[
+				"B",
+				"BSFC"
+			],
+			[
+				"sc",
+				"Schedule_ID"
+			],
+			[
+				"select",
+				"selectAll"
+			],
+			[
+				"stro",
+				"stroke-dasharray"
+			],
+			[
+				"on",
+				"oneortwo"
+			],
+			[
+				"p",
+				"p_tot"
+			],
+			[
+				"trans",
+				"transition"
+			],
+			[
+				"ghg",
+				"ghgsum"
+			],
+			[
+				"__",
+				"__ghg__"
+			],
+			[
+				"len",
+				"length-1"
+			],
+			[
+				"d",
+				"data0"
+			],
+			[
+				"tes",
+				"testAjax"
+			],
+			[
+				"styles",
+				"stylesheets"
+			],
+			[
+				"in",
+				"innerRadius"
+			],
+			[
+				"Inn",
+				"innerRadius"
+			],
+			[
+				"to",
+				"totalton"
+			],
+			[
+				"ns",
+				"nstart"
+			],
+			[
+				"di",
+				"distance"
+			],
+			[
+				"fill",
+				"fill-opacity"
+			],
+			[
+				"text",
+				"textpath"
+			],
+			[
+				"nst",
+				"nstart-1"
+			],
+			[
+				"da",
+				"data0"
+			],
+			[
+				"web",
+				"webapp2"
+			],
+			[
+				"render",
+				"render_template"
+			],
+			[
+				"write",
+				"writerow"
+			],
+			[
+				"Cs",
+				"CSVtoDB"
+			],
+			[
+				"EV",
+				"EV_Scenario"
+			],
+			[
+				"Ev",
+				"EVscenario"
+			],
+			[
+				"fu",
+				"fuel_eff_electric"
+			],
+			[
+				"Pe",
+				"PercentEV"
+			],
+			[
+				"coun",
+				"country"
+			],
+			[
+				"count",
+				"country"
+			],
+			[
+				"regio",
+				"regions"
+			],
+			[
+				"quer",
+				"query2db"
+			],
+			[
+				"s",
+				"sqlq"
+			],
+			[
+				"ex",
+				"exhaust"
+			],
+			[
+				"de",
+				"description"
+			],
+			[
+				"Pass",
+				"passenger"
+			],
+			[
+				"L",
+				"Lat"
+			],
+			[
+				"pl",
+				"plant_list"
+			],
+			[
+				"ve",
+				"vehicle"
+			],
+			[
+				"route",
+				"route_list"
+			],
+			[
+				"map",
+				"map_canvas"
+			],
+			[
+				"csv",
+				"csvContent"
+			],
+			[
+				"spee",
+				"speed_status"
+			],
+			[
+				"json",
+				"jsonlist"
+			],
+			[
+				"lin",
+				"linecolor"
+			],
+			[
+				"jso",
+				"jsonlist"
+			],
+			[
+				"lef",
+				"leftindex"
+			],
+			[
+				"le",
+				"leftindex"
+			],
+			[
+				"ld",
+				"leftindent"
+			],
+			[
+				"ma",
+				"makelinechart"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"se",
+				"selectAll"
+			],
+			[
+				"v",
+				"visibility"
+			],
+			[
+				"CO",
+				"CO2"
+			],
+			[
+				"e",
+				"emfac"
+			],
+			[
+				"fuel",
+				"fuelrate"
+			],
+			[
+				"c",
+				"co"
+			],
+			[
+				"j",
+				"jsonOut"
+			],
+			[
+				"scr",
+				"screenOn"
+			],
+			[
+				"o",
+				"ogr2ogr_to_shp"
+			],
+			[
+				"Tr",
+				"Truck_set"
+			],
+			[
+				"change",
+				"changeSpeed"
+			],
+			[
+				"P",
+				"Pac"
+			],
+			[
+				"tra",
+				"trans_ef"
+			],
+			[
+				"df",
+				"df2"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 530.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Mike/Dropbox/Teaching/Project Idea/Total Cost to Own"
+	],
+	"file_history":
+	[
+		"/Users/Mike/Dropbox/Teaching/Project Idea/Total Cost to Own/scripts/craigslist_car_python.py",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/Route LCA/Marginal Allocation/Model/scripts/fuel_model.py",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/Route LCA/Marginal Allocation/Model/scripts/motion.py",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/Route LCA/Marginal Allocation/Model/scripts/screen_VIUS.py",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/Route LCA/Marginal Allocation/Model/Visualize/parallel_coordintates.html",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/Route LCA/California Well-to-wheel/Model/PEMS/screenPEMS.py",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/Route LCA/Marginal Allocation/Model/Visualize/GHG_footprint_sensitivity.html",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/Route LCA/Paper/Figures/SFMTA Bus ridership/ridership_range.html",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/Route LCA/Marginal Allocation/Model/Visualize/commodity_bar.html",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/Route LCA/Paper/Figures/SFMTA Bus ridership/SFMTAbusridership.html",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/Route LCA/California Well-to-wheel/Model/PEMS/admin/view_district_level_stats.html",
+		"/Users/Mike/Desktop/viusheaders.csv",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/Route LCA/Marginal Allocation/Model/scripts/clean_FleetDNA.py",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/Route LCA/Marginal Allocation/Model/Visualize/data/ef_commodity_demand_c8.csv",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/Route LCA/Marginal Allocation/Model/Output_data/payloadorBSFC_c8.csv",
+		"/Users/Mike/Desktop/precipitation_Tap/legend.js",
+		"/Users/Mike/Desktop/precipitation_Tap/index.html",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/Route LCA/Marginal Allocation/Model/Visualize/Payload_or_BSFC.html",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/Route LCA/Marginal Allocation/Model/Visualize/js/untitled",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/Route LCA/Marginal Allocation/Model/Visualize/speed_distribution_alt_2.html",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/Route LCA/Marginal Allocation/Model/Visualize/js/legend.js",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/Route LCA/Marginal Allocation/Model/Output_data/sensitivity_c6_2010.csv",
+		"/Users/Mike/Dropbox/Doctoral_Thesis/Qualification Exam/Work Product/Figures/Graphs/VIUS/stylesheets/em_payload_commodity.html",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/Route LCA/California Well-to-wheel/Model/PEMS/post_analysis.py",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/Route LCA/Marginal Allocation/Model/Visualize/speed_distribution_alt.html",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/Route LCA/Marginal Allocation/Model/Output_data/sensitivity_c8_2010.json",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/Route LCA/Marginal Allocation/Model/Output_data/sensitivity_c8_2010.csv",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/Route LCA/Marginal Allocation/Model/Input_data/Route_R.csv",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/Route LCA/Marginal Allocation/Model/scripts/visualize_duty_cycle.py",
+		"/Users/Mike/Dropbox/Doctoral_Thesis/Qualification Exam/Models/gem-v1.0-matlab 2/param_files/engine_map_350.m",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/Route LCA/Marginal Allocation/Model/Input_data/driveschedule.csv",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/Route LCA/Marginal Allocation/Model/Input_data/driveschedulesecond.csv",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/Route LCA/Marginal Allocation/Model/Output_data/SummaryTable1_2010.csv",
+		"/Users/Mike/Desktop/untitled.tsv",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/Route LCA/Marginal Allocation/Model/Output_data/drivingschedule_km_302_c8.csv",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/Route LCA/California Well-to-wheel/Model/PEMS/scripts/EMFAC_GREET.py",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/Route LCA/Marginal Allocation/Model/Output_data/ScenarioDatabase.csv",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/Route LCA/Marginal Allocation/Model/Visualize/screen_duty.html",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/Route LCA/Marginal Allocation/Model/admin/speed_distribution.html",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/Route LCA/Marginal Allocation/Model/Output_data/data_for_fleet_dna_delivery_vans.csv",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/Route LCA/Marginal Allocation/Model/admin/speed_distribution_alt.html",
+		"/Users/Mike/Dropbox/Doctoral_Thesis/Qualification Exam/Models/Fuel Rate/GEM_PERE.py",
+		"/Users/Mike/Dropbox/Doctoral_Thesis/Qualification Exam/Models/gem-v1.0-matlab 2/param_files/engine_map_270.m",
+		"/Users/Mike/Dropbox/Doctoral_Thesis/Qualification Exam/Models/gem-v1.0-matlab 2/param_files/engine_map_200.m",
+		"/Users/Mike/Dropbox/Doctoral_Thesis/Qualification Exam/Models/gem-v1.0-matlab 2/param_files/engine_map_455.m",
+		"/Users/Mike/Dropbox/Doctoral_Thesis/Qualification Exam/Models/gem-v1.0-matlab 2/param_files/transmission_manual_param.m",
+		"/Users/Mike/Dropbox/Doctoral_Thesis/Qualification Exam/Models/gem-v1.0-matlab 2/param_files/vehicle_param.m",
+		"/Users/Mike/Dropbox/Doctoral_Thesis/Qualification Exam/Models/gem-v1.0-matlab 2/param_files/engine_param.m",
+		"/Users/Mike/Dropbox/Doctoral_Thesis/Qualification Exam/Models/gem-v1.0-matlab 2/param_files/electric_param.m",
+		"/Users/Mike/Dropbox/Doctoral_Thesis/Qualification Exam/Models/gem-v1.0-matlab 2/param_files/driver_param.m",
+		"/Users/Mike/Dropbox/Doctoral_Thesis/Qualification Exam/Models/gem-v1.0-matlab 2/param_files/ambient_param.m",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/Route LCA/Marginal Allocation/Model/admin/screen_duty_template.html",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/Route LCA/Marginal Allocation/Model/Output_data/GHG_duty_cycle_one_percent_grade.csv",
+		"/Users/Mike/mtap1-udacity/views/circle_route.html",
+		"/Users/Mike/mtap1-udacity/main.py",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/UNEP/UNEP_onroad.py",
+		"/Users/Mike/Desktop/trash/file.csv",
+		"/Users/Mike/Documents/CleanShipping/main.py",
+		"/Users/Mike/mtap1-udacity/Login_Example/main.py",
+		"/Users/Mike/CleanShipping/assets/css/topmenufixed.css",
+		"/Users/Mike/CleanShipping/views/FAF.html",
+		"/Users/Mike/CleanShipping/views/total_cost_to_own.html",
+		"/Users/Mike/CleanShipping/views/precipitation.html",
+		"/Users/Mike/CleanShipping/views/GHGs_on_LA_freeways.html",
+		"/Users/Mike/CleanShipping/views/homepage.html",
+		"/Users/Mike/CleanShipping/views/fuel_live.html",
+		"/Users/Mike/CleanShipping/views/arctic_shipping.html",
+		"/Users/Mike/CleanShipping/views/cumulative_average.html",
+		"/Users/Mike/CleanShipping/views/beautiful_soup.html",
+		"/Users/Mike/CleanShipping/views/map_d3js.html",
+		"/Users/Mike/CleanShipping/views/HG_intake.html",
+		"/Users/Mike/Desktop/tommy/index.html",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/UNEP/Output_Data/PC/Diesel/2030/India/summary.csv",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/UNEP/Output_Data/HHD/Diesel/2010/EU 15/summary.csv",
+		"/Users/Mike/Desktop/What did I do.txt",
+		"/Users/Mike/Downloads/quit 1.8 2/quit",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/UNEP/Input_data/HDT/HDT_fuel_consumption(made up scenarios).xlsx",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/UNEP/Output_Data/PC/2010/Chile/2010_PC_Petrol_Chile_UNEP.csv",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/UNEP/UNEP_scenario.py",
+		"/Users/Mike/Dropbox/Doctoral_Thesis/Work_Product/D3/Maps/US_HDT_Manufacturers/US_automotive_suppliers.tsv",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/UNEP/Work Product/Figure/Switch to BEV/switch_to_BEV_Asia.html",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/UNEP/Work Product/Figure/Switch to BEV/switch_to_BEV_Europe.html",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/UNEP/Work Product/Figure/Switch to BEV/switch_to_BEV.html",
+		"/Users/Mike/Dropbox/Doctoral_Thesis/Work_Product/D3/Maps/US_HDT_Manufacturers/scrape_marklines.py",
+		"/Users/Mike/Dropbox/Doctoral_Thesis/Work_Product/D3/Maps/US_HDT_Manufacturers/USA_OEMS.tsv",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/Marginal Fuel Cost/Data Analysis/marginalCost.py",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/UNEP/Output_Data/2010/EU 15/2010_HDV_EU 15_UNEP.csv",
+		"/Users/Mike/Dropbox/Doctoral_Thesis/Work_Product/Google_Map_Tool/Alpha 1.01/Legend/admin/stylesheets/scripts/speed-corrected_simple.js",
+		"/Users/Mike/Dropbox/Doctoral_Thesis/Work_Product/Google_Map_Tool/Alpha 1.01/Legend/admin/stylesheets/scripts/speed-corrected.js",
+		"/Users/Mike/Dropbox/Doctoral_Thesis/Work_Product/Google_Map_Tool/Alpha 1.01/Legend/admin/googlemaps.html",
+		"/Users/Mike/Dropbox/Doctoral_Thesis/Work_Product/Google_Map_Tool/Alpha 1.01/Legend/admin/assets/js/theme.js",
+		"/Users/Mike/Dropbox/Doctoral_Thesis/Work_Product/Google_Map_Tool/Alpha 1.01/Legend/admin/map.html",
+		"/Users/Mike/Dropbox/Doctoral_Thesis/Work_Product/Google_Map_Tool/Alpha 1.01/Legend/admin/invoice.html",
+		"/Users/Mike/Dropbox/Doctoral_Thesis/Work_Product/Google_Map_Tool/Alpha 1.01/Legend/admin/blog.html",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/Route LCA/Model/d3/EMFAC_w2w.html",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/Route LCA/Model/d3/LDA.html",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/Route LCA/Model/d3/HDT.html",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/Route LCA/Model/d3/css/greyScale.css",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/Route LCA/Model/d3/EMFAC_w2w_json.html",
+		"/Users/Mike/Dropbox/Doctoral_Thesis/Work_Product/D3/Maps/US_HDT_Manufacturers/index.html",
+		"/Users/Mike/Dropbox/Doctoral_Thesis/Work_Product/Google_Map_Tool/Alpha 1.0/index.html",
+		"/Users/Mike/Dropbox/div.py",
+		"/Users/Mike/Dropbox/Teaching/Vudlab/Gadgil Group 2014/index.html",
+		"/Users/Mike/Dropbox/Doctoral_Thesis/Work_Product/D3/Graphs/Jensen's Inequality/stylesheets/Jensens_Inequality.html",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/Route LCA/Model/d3/HDT_html",
+		"/Users/Mike/Dropbox/Doctoral_Thesis/Work_Product/D3/Graphs/LCA_EF_error/Model/motion.py",
+		"/Users/Mike/Google Drive/Doctoral Thesis/Projects/Route LCA/Model/Input_Data/EI-2011Class-Statewide-2014-Annual-20140512153209.csv",
+		"/Users/Mike/Dropbox/Doctoral_Thesis/Work_Product/D3/Graphs/LCA_EF_error/Model/test.py",
+		"/Users/Mike/Dropbox/Doctoral_Thesis/Work_Product/D3/Graphs/LCA_EF_error/Model/fuel_model.py",
+		"/Users/Mike/Dropbox/Doctoral_Thesis/Work_Product/D3/Graphs/LCA_EF_error/Model/o2o.py",
+		"/Users/Mike/Dropbox/Doctoral_Thesis/Work_Product/D3/Graphs/LCA_EF_error/Model/makeSpatialDF.py",
+		"/Users/Mike/Dropbox/Doctoral_Thesis/Work_Product/D3/Graphs/LCA_EF_error/Model/local_ogr2ogr.py",
+		"/Users/Mike/Desktop/ne_110m_admin_0_countries/test.py",
+		"/Users/Mike/Dropbox/Doctoral_Thesis/Work_Product/D3/Graphs/LCA_EF_error/Model/ogr2ogr.py",
+		"/Library/Frameworks/GDAL.framework/Versions/1.9/Python/2.7/site-packages/ogr2ogr.py",
+		"/Users/Mike/Desktop/python_server/main.py",
+		"/Users/Mike/Dropbox/Doctoral_Thesis/Work_Product/D3/Graphs/LCA_EF_error/stylesheets/script/test.js",
+		"/Users/Mike/ce11gsi/main.py",
+		"/Users/Mike/Dropbox/Teaching/Classes/CE11/d3/ce11_home2.html",
+		"/Users/Mike/Dropbox/Teaching/Vudlab/Gadgil Group 2014/stylesheets/preview.html",
+		"/Users/Mike/Dropbox/Teaching/Classes/CE11/d3/energy_efficiency.html",
+		"/Users/Mike/Dropbox/Teaching/Classes/CE11/d3/economics.html",
+		"/Users/Mike/Dropbox/Teaching/Classes/CE11/d3/risk.html",
+		"/Users/Mike/Dropbox/Teaching/Classes/CE11/d3/stylesheets/energy_efficiency.html",
+		"/Users/Mike/Dropbox/Teaching/Classes/CE11/d3/buildings.html",
+		"/Users/Mike/Dropbox/Doctoral_Thesis/Qualification Exam/Work Product/Figures/Graphs/GEM PERE/stylesheets/brush_route_perkm.html",
+		"/Users/Mike/Dropbox/Doctoral_Thesis/Work_Product/D3/Graphs/Jensen's Inequality/stylesheets/scripts/linechart.js",
+		"/Users/Mike/Dropbox/Doctoral_Thesis/Work_Product/D3/Graphs/Jensen's Inequality/stylesheets/styles/slider.css"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"+d.__weight_size - 2",
+			".attr(\"height\", y.rangeBand()/3);",
+			"y(d.__name) + (+d.__weight_size - 2)*y.rangeBand()/3",
+			".attr(\"y\", function(d) { return y(d.__name); })",
+			"d.__name+d.__weight_size",
+			"title",
+			"on_peak",
+			" \\n",
+			"\\n",
+			"\\\\n",
+			"\\n",
+			". ",
+			"apply",
+			"sort",
+			"	",
+			"Data",
+			"Dataf",
+			"color.domain()",
+			"text",
+			" load",
+			"avgc8",
+			"d[4]",
+			"print",
+			".attr(\"x\", 5)\n	    	.attr(\"y\", -15)",
+			"top: 30",
+			".style(\"font-size\", 20).style(\"font-weight\", \"bold\")",
+			".style(\"font-size\", 18).style(\"font-weight\", \"bold\")",
+			", 1000 kg",
+			"tonnes",
+			".style(\"font-size\", 20).style(\"font-weight\", \"bold\")",
+			".style(\"font-size\", 16).style(\"font-weight\", \"bold\")",
+			".style(\"font-size\", 20).style(\"font-weight\", \"bold\")",
+			".style(\"font-size\", 20)",
+			"elif(p<12):",
+			"elif(p<8):",
+			"elif(p<6):",
+			"if(p<5):",
+			".style(\"opacity\",0.4)",
+			".style(\"opacity\",0.7)",
+			".text(function(d){ return d[4]})\n				    .style(\"font-size\", 14)",
+			"\"25\"",
+			"\"30\"",
+			"p2dict",
+			".style(\"stroke\", function(){ if (e > 80){ return \"none\"}else{return  \"#000\"}})",
+			"var chart = svg.selectAll(\".dot\")\n      .data(dataNest)\n    .enter().append(\"g\")\n      .selectAll(\"commodities\")\n      .data(function(d){ return d[\"values\"]})\n    .enter().append(\"g\")",
+			"drop",
+			"a.payload, a.totE",
+			"a.f, a.load",
+			"	",
+			"*ghgpergram",
+			"mapGHG",
+			"grade=g",
+			"round(d[",
+			"np.sum(np.array(x",
+			"ApplyPercentileDistrict",
+			"con",
+			"stack",
+			"cons",
+			"browser",
+			"date",
+			"%",
+			"sort",
+			"shape",
+			"d.c8",
+			"%",
+			"d.velocity",
+			"d.GHG",
+			"d.c8",
+			")\n",
+			"d.time",
+			"time",
+			"page",
+			"csv",
+			"webbrowser",
+			"map",
+			"PERE",
+			"consol",
+			"cons",
+			"views",
+			"site",
+			"message",
+			"convertValue",
+			"translateTriangle",
+			"cons",
+			"startA",
+			".png",
+			"Visual",
+			"Clean Shipping Google Tool V.1",
+			"mapTime",
+			"time",
+			"to_",
+			"to_di",
+			"csv",
+			"PC_FE_EV",
+			"PC_PS_EV",
+			"tellToQuit",
+			"writetofile",
+			"addregiondata",
+			"fuel",
+			"coal_list",
+			"coal_location",
+			"	",
+			"th PM filter', 9.0] ",
+			"ro I+II', 40]",
+			" V', 40]",
+			"[ 'Motorcycles 4-stroke'",
+			"\"MC\":",
+			"'Pass.car diesel with PM filter',",
+			"\"PC\":",
+			"II',",
+			"\"BUS\": ",
+			"'Bus Euro I+II',",
+			"\"BUS\": ",
+			"'Heavy trucks Euro V',",
+			"\"HDV\":",
+			"2020:{\n\"HDV\": 'Heavy trucks Euro V',\n\"BUS\": 'Bus Euro I+II',\n\"PC\": 'Pass.car diesel with PM filter',\n\"MC\": 'Motorcycles 4-stroke'\n}, ",
+			"makeA",
+			"slide",
+			"invo",
+			"routeid",
+			"empty",
+			"makeA",
+			"sideb",
+			"consol",
+			"main",
+			"down",
+			"sidebar",
+			"payload"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"4 - (+d.__weight_size)",
+			"4 - (+d.__weight_size - 2)",
+			".attr(\"height\", y.rangeBand()/3-1);",
+			"y(d.__name) + (+d.__weight_size - 2)*y.rangeBand()/3 - 1",
+			".attr(\"y\", function(d) { return y(d.__name) + (+d.__weight_size -2 )*y.rangeBand()/3); })",
+			".attr(\"y\", function(d) { return y(d.__name)+ (+d._weight_size-2)*y.rangeBand()/3); })",
+			"d.__name",
+			"\",\"",
+			"\",",
+			"\":\"",
+			",",
+			"color.quantiles()",
+			"d[0]",
+			".attr(\"x\", -55)\n	    	.attr(\"y\", -15)",
+			".attr(\"x\", -35)\n	    	.attr(\"y\", -15)",
+			".attr(\"x\", -15)\n	    	.attr(\"y\", -15)",
+			"top: 35",
+			".style(\"font-size\", 20)",
+			".style(\"font-size\", 20).style(\"font-weight\", \"bold\")",
+			" (1,000 kg)",
+			"(1,000 kg)",
+			"1000 kg",
+			".style(\"font-size\", 18).style(\"font-weight\", \"bold\")",
+			".style(\"font-size\", 16).style(\"font-weight\", \"bold\")",
+			".style(\"font-size\", 20).style(\"font-weight\", \"bold\")",
+			"elif(p<12):",
+			"elif(p<10):",
+			"if(p<9):",
+			".style(\"opacity\",0.55)",
+			".style(\"opacity\",0.4)",
+			".text(function(d){ return d[4]})\n				    .style(\"font-size\", 14).style(\"opacity\",0.7)",
+			"//.style(\"stroke\", function(){ if (e > 80){ return \"none\"}else{return  \"#000\"}})",
+			"a.payload, a.totE, a.x",
+			"a.totE",
+			",",
+			"",
+			"mapGHGperkm",
+			"grade=g, bsfc=200",
+			"[round(d[",
+			"[np.sum(np.array(x",
+			"good",
+			"km",
+			"d[\"%(v)s\"]",
+			"d.speed",
+			"d.c8",
+			"d.second",
+			"convertEnd",
+			"translateEnd",
+			"plant_list",
+			"fileout",
+			",",
+			"th PM filter', 9.0] ,",
+			"ro I+II', 40],",
+			" V', 40],",
+			"[ 'Motorcycles 4-stroke', 3]",
+			"\"MC\": [",
+			"'Pass.car diesel with PM filter', 9.0] ",
+			"\"PC\": [",
+			"II', 40]",
+			"\"BUS\": [",
+			"'Bus Euro I+II', 40]",
+			"'Bus Euro I+II', 40",
+			"\"BUS\": [",
+			"'Heavy trucks Euro V', 40]",
+			"\"HDV\": [",
+			"",
+			"country",
+			"countries",
+			"FE",
+			"T7 CAIRP",
+			"DSL",
+			"T6 CAIRP small",
+			"UBUS",
+			"truck",
+			"T7 Single",
+			"model",
+			"1.60934, 0]",
+			"[float(data",
+			",",
+			"",
+			"5",
+			",",
+			"cale(0.7, 0.7)",
+			"scale(0.5, 0.5)",
+			"average",
+			"y(1)",
+			"20, 0, 1",
+			"Emission Factor, g CO2,e / ton-km",
+			"mt",
+			"4000",
+			"12500/(0.75*6.1"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 188.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "total_cost_to_own.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/Dropbox/Doctoral_Thesis/Work_Product/D3/Graphs/LCA_EF_error/stylesheets/LCA_error.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 194.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
