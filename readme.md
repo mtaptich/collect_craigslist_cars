@@ -1,6 +1,6 @@
 <h1>Python Script to Scrap Craiglist Data</h1>
 
-<p>A few things about this package:</p>
+<h3>A few things about this package:</h3>
 <ul>
 	<li> You run everything from <code>tc2o.py</code> </li>
 	<li> You must update the email information to email the csv results (scripts/email_csv.py)</li>
@@ -8,7 +8,8 @@
 </ul>
 </p>
 
-<hr>
+
+<h3> Scraping Data </h3>
 <p>
 	<code>craigslist_cars.py</code> is the script that pulls car listings. The query function within this script looks like this:<br>
 	<pre><code>query(city, limit, brand, model, minimum_price="2000", minimum_year="2006", ...
